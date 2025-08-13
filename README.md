@@ -57,17 +57,6 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
 </div>
 
-
----
-
-## 📌 프로젝트 경험 (예시)
-
-### 🎙 GPT 기반 학습 상담 챗봇  
-
-### 📊 대학교 수강신청 분석 웹 대시보드  
-
-> ※ 프로젝트는 추후 깃허브 또는 노션 링크 추가 예정입니다.
-
 ---
 
 ## 📚 학습 & 활동
