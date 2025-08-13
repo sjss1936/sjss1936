@@ -34,19 +34,14 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 - **AI/ML**: PyTorch, scikit-learn, OpenAI API, HuggingFace  
 - **웹**: HTML/CSS, React, Node.js, Flask  
 - **도구**: Git, VSCode, Notion, Google Colab  
-- **데이터 분석**: Pandas, NumPy, Matplotlib
 
 ---
 
 ## 📌 프로젝트 경험 (예시)
 
 ### 🎙 GPT 기반 학습 상담 챗봇  
-- OpenAI API + Streamlit을 활용한 대화형 학습 도우미
-- 주제별 프롬프트 구성 및 사용자 피드백 저장 기능 구현  
 
 ### 📊 대학교 수강신청 분석 웹 대시보드  
-- Flask + Chart.js 기반 과목별 수요 분석 시스템 개발
-- 사용자 입력 데이터를 기반으로 수강 추천 로직 설계
 
 > ※ 프로젝트는 추후 깃허브 또는 노션 링크 추가 예정입니다.
 
@@ -54,10 +49,7 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 
 ## 📚 학습 & 활동
 
-- Kaggle Competition 참여 및 노트북 공유  
 - GitHub를 활용한 코드 관리 및 협업 학습  
-- 논문 요약 및 구현 연습 (arXiv 논문 기반)  
-- 알고리즘 문제 풀이 (BOJ 기준 ~실버1 등급)
 
 ---
 
@@ -65,13 +57,12 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 
 - [Notion 포트폴리오](https://www.notion.so/yourname) (작성 중)
 - [LinkedIn 프로필](https://www.linkedin.com/in/yourname) (선택)
-- [GitHub 블로그/스터디 레포](https://github.com/yourusername)
 
 ---
 
 ## 📬 Contact
 
-- Email: **your.email@example.com**
+- Email: **sonjaisong@gmail.com**
 - GitHub DM or LinkedIn도 환영합니다!
 
 함께 배우고 성장할 수 있는 협업 기회를 언제나 기다리고 있습니다.  
