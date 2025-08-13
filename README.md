@@ -30,10 +30,33 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 
 ## 🛠️ Tech Stack
 
-- **언어**: Python, JavaScript, Java  
-- **AI/ML**: PyTorch, scikit-learn, OpenAI API, HuggingFace  
-- **웹**: HTML/CSS, React, Node.js, Flask  
-- **도구**: Git, VSCode, Notion, Google Colab  
+### 🎨 Frontend
+<div align="center">
+<!-- Languages -->
+<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
+</div>  
+
+### ⚙️ Backend & APIs
+<div align="center">
+<!-- Languages -->
+<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
+<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
+</div>
+
+### 🗄 Databases
+<div align="center">
+<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
+<a href="https://www.oracle.com/"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50"/></a>
+</div>
+
+### ☁️ DevOps / Infra / Tools
+<div align="center">
+<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
+</div>
+
 
 ---
 
@@ -49,7 +72,30 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 
 ## 📚 학습 & 활동
 
-- GitHub를 활용한 코드 관리 및 협업 학습  
+- GitHub를 활용한 코드 관리 및 협업 학습 
+
+---
+
+## 📊 GitHub Stats & Streak
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjss1936&show_icons=true&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjss1936&hide_border=true&theme=default" height="160"/>
+</div>
+
+---
+
+## 📈 Top Languages
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjss1936&layout=compact&langs_count=12&card_width=450&hide_border=true&title_color=4A4A4A&text_color=333333&bg_color=ffffff&icon_color=FFB347"
+    height="220"
+  />
+</div>
+
+---
+
+## 🔥 Activity Graph (Animated)
+[![Aebon Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjss1936&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
