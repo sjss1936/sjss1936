@@ -45,7 +45,6 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
 <a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"/></a>
-<a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.svg" height="50"/></a>
 </div>
 
 ### 🗄 Databases
@@ -57,7 +56,6 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 ### ☁️ DevOps / Infra / Tools
 <div align="center">
 <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
-<a href="https://developer.android.com/studio"><img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" height="50"/></a>
 </div>
 
 ---
