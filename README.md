@@ -41,9 +41,9 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 
 ### ⚙️ Backend & APIs
 <div align="center">
-<!-- Languages -->
 <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
 <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
+<a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
 </div>
 
 ### 🗄 Databases
