@@ -36,7 +36,6 @@ AI와 데이터 분야에 관심을 가지고 다양한 프로젝트와 학습�
 <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
-<a href="https://flutter.dev/"><img src="https://profilinator.rishav.dev/skills-assets/flutter-original.svg" height="50"/></a>
 </div>
 
 ### ⚙️ Backend & APIs
